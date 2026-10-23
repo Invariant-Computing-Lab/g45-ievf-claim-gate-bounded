@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "evidence_ids": [
+        "e1"
+      ],
+      "id": "c1",
+      "independent_verification": false,
+      "rights_approved": false
+    }
+  ]
+}
